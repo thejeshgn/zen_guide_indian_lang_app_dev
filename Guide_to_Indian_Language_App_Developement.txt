@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-02-05T23:53:42+05:30
+
+====== Guide to Indian Language App Developement ======
+Written on Thursday 05 February 2015 by [[http://thejeshgn.com|Thejesh GN]]
+
+
+===== Table of Contents =====
+
+===== Welcome =====
+- Indian Languages
+- Talk about how many languages
+
+===== Why =====
+- Why only Indian languages
+- Why now 
+- What languages are used in example code
+
+===== Who is this for? =====
+
+===== License =====
+- Licnese
+- simple way
+- official link
+- short link
+
+===== Dedication =====
+
+===== About Me =====
+

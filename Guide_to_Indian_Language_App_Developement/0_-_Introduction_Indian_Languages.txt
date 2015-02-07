@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-02-06T19:34:13+05:30
+
+====== 0 - Introduction Indian Languages ======
+Created Friday 06 February 2015
+
+
+
+
+
+
+
+
+Picture: South Asian Language Families, [[http://en.wikipedia.org/wiki/File:South_Asian_Language_Families.jpg|Wikipedia]] 
+{{./549px-South_Asian_Language_Families.jpg}}
+
+
+
+[ ] [[./U0C80.pdf|Kannada Unicode Table]] 
+[ ] [[./U0900.pdf|Devanagari Unicode Table]] 
