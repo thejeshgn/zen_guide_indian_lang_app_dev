@@ -5,6 +5,7 @@ Creation-Date: 2015-02-06T19:34:13+05:30
 ====== 0 - Introduction Indian Languages ======
 Created Friday 06 February 2015
 
+Its important to know about the Indian Languages before one starts developing in them. I have tried to give you a small intro here but 
 
 
 
@@ -12,8 +13,8 @@ Created Friday 06 February 2015
 
 
 
-Picture: South Asian Language Families, [[http://en.wikipedia.org/wiki/File:South_Asian_Language_Families.jpg|Wikipedia]] 
 {{./549px-South_Asian_Language_Families.jpg}}
+Picture: South Asian Language Families, [[http://en.wikipedia.org/wiki/File:South_Asian_Language_Families.jpg|Wikipedia]] 
 
 
 
