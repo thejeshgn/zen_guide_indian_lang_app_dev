@@ -14,6 +14,3 @@ Picture: South Asian Language Families, [[http://en.wikipedia.org/wiki/File:Sout
 
 In this tutorial we will use Kannada (Dravidian language and also my mother tongue)  and Devanagari (Script that is used to write  Indo - Aryan Family language like Hindi, Marathi etc).  So all the code examples, language examples will be in these two languages but the tutorial and code itself will be in English. This is just due to limitation of time, I would be more than happy if someone helps me to include the examples from the other Indian languages. But we will keep the tutorial and actual code in English as its the developers language.
 
-
-[ ] [[./U0C80.pdf|Kannada Unicode Table]] 
-[ ] [[./U0900.pdf|Devanagari Unicode Table]] 
