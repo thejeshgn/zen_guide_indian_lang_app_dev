@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2015-02-06T19:34:13+05:30
 
 ====== 0 - Introduction Indian Languages ======
-Created Friday 06 February 2015
+Created Friday 06 February 2015 by [[http://thejeshgn.com|Thejesh GN]]  - [[Zen_Guide_to_Indian_Language_App_Developement.html|Home]] 
 
 Its important to know about the Indian Languages before one starts developing in them. There are two major language families in India. They are namely  Indo - Aryan Family  and Dravidian  languages. There are small pockets in India where the languages belong to different families for example Austroasiatic languages or Tibeto-Burman languages. 
 

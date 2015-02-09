@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2015-02-05T23:53:42+05:30
 
 ====== Zen Guide to Indian Language App Developement ======
-Written on Thursday 05 February 2015 by [[http://thejeshgn.com|Thejesh GN]]  - Home 
+Written on Thursday 05 February 2015 by [[http://thejeshgn.com|Thejesh GN]]  - [[Zen_Guide_to_Indian_Language_App_Developement.html|Home]] 
 
 
 ===== Table of Contents =====
@@ -36,6 +36,6 @@ Written on Thursday 05 February 2015 by [[http://thejeshgn.com|Thejesh GN]]  - H
 [ ] This was written using [[http://zim-wiki.org/|ZimWiki]] which is an awesome note making software and uses a customized [[https://github.com/ecodiv/Ecodiv-responsive|Ecodiv-responsive template]] for web
 [ ] The contents for [[https://github.com/thejeshgn/zen_guide_indian_lang_app_dev|ZimWiki is availabe on the GitHub]]. Clone and edit the contents, either online or by cloning to the local computer
 [ ] Once you clone, import the notes using File -> Open Another Notebook ([[./clone_and_edit.png|screenshot]])
-[ ] You need to send a pull once you make changes. Buy sending the pull request you agree to release the contributions under the same license - CC-BY-SA
-
+[ ] You need to send a pull once you make changes. By sending the pull request you agree to release the contributions under the same license - CC-BY-SA
+[ ] List of all the [[https://github.com/thejeshgn/zen_guide_indian_lang_app_dev/graphs/contributors|contributors is availabe on GitHub]]
 
