@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-02-06T19:34:13+05:30
+
+====== 0 - Introduction Indian Languages ======
+Created Friday 06 February 2015
+
+Its important to know about the Indian Languages before one starts developing in them. There are two major language families in India. They are namely  Indo - Aryan Family  and Dravidian  languages. There are small pockets in India where the languages belong to different families for example Austroasiatic languages or Tibeto-Burman languages. 
+
+As per cesus India has 122 major languages and 1599 other languages. The eight schedule of Indian consittution lists 22 languages as scheduled languages. Constituion also lists English and Hindi as two official language of India.  In addition to that Tamil, Sanskrit, Telugu, Kannada, Malayalam and Oriya are awarded the distinction of classical languages by GoI.  So far all practical  purposes we need to support at the least 22 languages to cover all of India.
+
+{{./549px-South_Asian_Language_Families.jpg}}
+Picture: South Asian Language Families, [[http://en.wikipedia.org/wiki/File:South_Asian_Language_Families.jpg|Wikipedia]] 
+
+In this tutorial we will use Kannada (Dravidian language and also my mother tongue)  and Devanagari (Script that is used to write  Indo - Aryan Family language like Hindi, Marathi etc).  So all the code examples, language examples will be in these two languages but the tutorial and code itself will be in English. This is just due to limitation of time, I would be more than happy if someone helps me to include the examples from the other Indian languages. But we will keep the tutorial and actual code in English as its the developers language.
+
+
+[ ] [[./U0C80.pdf|Kannada Unicode Table]] 
+[ ] [[./U0900.pdf|Devanagari Unicode Table]] 
