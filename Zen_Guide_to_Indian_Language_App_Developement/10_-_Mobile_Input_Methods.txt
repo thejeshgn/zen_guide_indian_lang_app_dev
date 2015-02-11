@@ -7,6 +7,21 @@ Created Friday 06 February 2015
 
 ===== Android =====
 
+==== Indic Keyboard ====
+[ ] [[https://play.google.com/store/apps/details?id=org.smc.inputmethod.indic&hl=en|Play store link]]
+
+==== Indic Keyboard prime ====
+[ ] [[https://play.google.com/store/apps/details?id=in.androidtweak.inputmethod.indic&hl=en|Play store link]]
+
+==== SwiftKey ====
+[ ] [[https://play.google.com/store/apps/details?id=com.touchtype.swiftkey&hl=en|Play store link]]
+
+==== Anysoft Keyboard ====
+[ ] [[https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard&hl=en|Playstore link]]
+[ ] [[https://play.google.com/store/apps/details?id=com.anysoftkeyboard.sriandroid.kannada&hl=en|Kannada Keyboard Addon]]
+[ ] [[https://play.google.com/store/apps/details?id=com.anysoftkeyboard.sriandroid.Hindi&hl=en|Hindi Keyboard Addon]]
+
+
 ===== iPhone =====
 
 ===== Windows Mobile =====
