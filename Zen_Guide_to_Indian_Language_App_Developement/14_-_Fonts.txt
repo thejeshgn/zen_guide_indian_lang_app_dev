@@ -19,18 +19,20 @@ Created Saturday 07 February 2015
 Generic or standard ways of installing fornts
 
 ==== Linux ====
-[ ] Download the font 
-[ ] Select all needed fonts and right click. On the right-click menu, click on Open With Font Viewer or just double click it should open in Font Viewer
-[ ] Click on the “Install Font” button
+[*] Download the font 
+[*] Select all needed fonts and right click. On the right-click menu, click on Open With Font Viewer 
+[*] Or just double click it should open in Font Viewer
+[*] Click on the “Install Font” button
 
 ==== Windows ====
-[ ] Download the font 
-[ ] Search for “fonts” in the Start Menu or go to Start → Control Panel → Appearance and Personalization → Fonts
-[ ] Select all fonts and drag them into the Fonts folder or just copy paste to Fonts folder
+[*] Download the font 
+[*] Search for “fonts” in the Start Menu or go to Start → Control Panel → Appearance and Personalization → Fonts
+[*] Select all fonts and drag them into the Fonts folder
+[*] Or just copy paste to Fonts folder
 
 ==== OS X ====
-[ ] Download the font
-[ ] Select all of the font file and double click on it
-[ ] Font Book will open and show a preview of the font
-[ ] Click on the ‘Install’ button to install
+[*] Download the font
+[*] Select all of the font file and double click on it
+[*] Font Book will open and show a preview of the font
+[*] Click on the ‘Install’ button to install
 
