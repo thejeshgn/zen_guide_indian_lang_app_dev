@@ -5,3 +5,8 @@ Creation-Date: 2015-02-07T00:20:13+05:30
 ====== 15 - Web Fonts ======
 Created Saturday 07 February 2015
 
+Web fonts refers to fonts used on the website which are automatically downloaded in the browser and used to render the website. 
+
+
+
+@font-face

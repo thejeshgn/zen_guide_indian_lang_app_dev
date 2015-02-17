@@ -9,6 +9,9 @@ Created Friday 06 February 2015
 
 ==== Indic Keyboard ====
 [ ] [[https://play.google.com/store/apps/details?id=org.smc.inputmethod.indic&hl=en|Play store link]]
+[ ] Open Source Keyboard and its free
+[ ] Supports most Indian languages
+[ ] Has multiple types of keyboards for each language like phonotic 
 
 ==== Indic Keyboard prime ====
 [ ] [[https://play.google.com/store/apps/details?id=in.androidtweak.inputmethod.indic&hl=en|Play store link]]

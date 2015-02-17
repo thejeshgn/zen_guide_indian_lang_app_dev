@@ -5,3 +5,32 @@ Creation-Date: 2015-02-07T00:19:51+05:30
 ====== 14 - Fonts ======
 Created Saturday 07 February 2015
 
+[[http://www.indlinux.org/wiki/index.php/IndicFontsList#Kannada|IndLinux]] has a great list of OpenType and TrueType fonts avilabe under FOSS licenses.
+
+==== Noto Sans Fonts ====
+[[http://www.google.com/get/noto/#/|Noto]]'s goal is providing a beautiful reading experience for everyone and for all languages. With visual harmony when multiple languages share a page. With multiple styles and weights. Freely available to all. Noto fonts are released under the Apache License, version 2.0. Noto sans family of fonts cover all most all the Indian languages.
+[[http://www.google.com/get/noto/cjk.html|You can install whole family (all languages) as one package]].
+
+==== Lohit Fonts ====
+[[https://fedorahosted.org/lohit/|Lohit is a font family]] designed to cover Indic scripts and released by Red Hat. The Lohit fonts currently cover 11 languages: Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu.[1] The fonts were supplied by Modular Infotech and licensed under the GPL.
+
+
+===== How to install fonts =====
+Generic or standard ways of installing fornts
+
+==== Linux ====
+[ ] Download the font 
+[ ] Select all needed fonts and right click. On the right-click menu, click on Open With Font Viewer or just double click it should open in Font Viewer
+[ ] Click on the “Install Font” button
+
+==== Windows ====
+[ ] Download the font 
+[ ] Search for “fonts” in the Start Menu or go to Start → Control Panel → Appearance and Personalization → Fonts
+[ ] Select all fonts and drag them into the Fonts folder or just copy paste to Fonts folder
+
+==== OS X ====
+[ ] Download the font
+[ ] Select all of the font file and double click on it
+[ ] Font Book will open and show a preview of the font
+[ ] Click on the ‘Install’ button to install
+
