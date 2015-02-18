@@ -5,3 +5,29 @@ Creation-Date: 2015-02-06T00:06:17+05:30
 ====== 4 - HTML Web Apps ======
 Created Friday 06 February 2015
 
+
+
+
+===== Ordered Lists =====
+Support for Indic based order lists are very browser specific. But most modern browsers support it. Its done using //list-style-type// CSS attribute. For example setting list-style-type to kannada will produce list numbering as described in the CSS3 Lists module and displays Kannada numerals.  Quite a few Indian languages like Kannada, Telugu, Tamil, Malayalm, Devnagari, Bengali etc are supported. Below I have demo code and rendering of the same in browser
+
+'''
+<ol style="list-style-type:kannada">
+<li>First</li>
+<li>Second</li>
+<li>Third</li>
+</ol>
+<ol style="list-style-type:devanagari">
+<li>First</li>
+<li>Second</li>
+<li>Third</li>
+</ol>
+<ol style="list-style-type:hindi">
+<li>First</li>
+<li>Second</li>
+<li>Third</li>
+</ol>
+'''
+
+
+{{./indic_ordered_list.png}}
