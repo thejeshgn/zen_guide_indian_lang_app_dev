@@ -14,6 +14,8 @@ Created Saturday 07 February 2015
 ==== Lohit Fonts ====
 [[https://fedorahosted.org/lohit/|Lohit is a font family]] designed to cover Indic scripts and released by Red Hat. The Lohit fonts currently cover 11 languages: Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu.[1] The fonts were supplied by Modular Infotech and licensed under the GPL.
 
+==== SDL - IITM - Fonts ====
+[[http://www.acharya.gen.in:8080/fonts/iitmfonts.php|IIT Madras has put together a set of fonts]], one each for the eleven different scripts commonly used in the country. These have been selected from freely available (or distributed) fonts and in some cases, IIT Madras has provided her own fonts designed for multilingual use.  You can also download the [[http://www.acharya.gen.in:8080/fonts/truetype/iitmuni.ttf|iitmuni.ttf font]] (single font for all the scripts). 
 
 ===== How to install fonts =====
 Generic or standard ways of installing fornts
