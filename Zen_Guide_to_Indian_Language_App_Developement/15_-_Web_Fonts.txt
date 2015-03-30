@@ -5,8 +5,39 @@ Creation-Date: 2015-02-07T00:20:13+05:30
 ====== 15 - Web Fonts ======
 Created Saturday 07 February 2015
 
-Web fonts refers to fonts used on the website which are automatically downloaded in the browser and used to render the website. 
+Web fonts refers to fonts used on the website which are automatically downloaded in the browser and used to render the website.  This has been made possible using @font-face css tag. All most all the modern desktop and mobile browsers support this.
+
+{{{code: lang="html" linenumbers="false"
+<style>
+@font-face {
+	font-family: myFirstFont;
+	src: url(sansation_light.woff);
+}
+
+body {
+	font-family: myFirstFont;
+}
+</style>
+}}}
 
 
+There are hosted providers of web fonts. You can also host for yourself. We will see some examples
 
-@font-face
+===== Google Web Fonts =====
+[[http://www.google.com/fonts|Google Web Fonts]] serves some of the open source fonts as web fonts. Its probably the most easiest way to use different fonts on a web project. Just select the font, font size and the page provides you with CSS snippet. Just include that in your HTML and use it in your styles. Some of the Indic fonts (Most based on Nato Sans) are avaiable as [[http://www.google.com/fonts/earlyaccess|part of early access]].  Hopefully they will become part of regular font distribution soon.
+
+For example, for Kannada which is part of early acess
+{{{code: lang="html" linenumbers="false"
+<head>
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskannada.css);
+<style>
+body {
+font-family: 'Noto Sans Kannada', serif;
+}
+</style>
+</head>
+}}}
+
+
+===== FONT Squirrel - Web Font Generator =====
+ [[http://www.fontsquirrel.com/tools/webfont-generator|Web Font Generator]] is a service provided by FONT Squirrel. You can upload your fonts here and then download the set of font files and css files which are ready to be uploaded to the server. Once you upload the file to a web accessible server. Include the CSS in your HTML and use it like a hosted font. This is really useful for those custom fonts that you have and want to use on the web.
